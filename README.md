@@ -2,6 +2,7 @@
 
 [![Build Status](https://dev.azure.com/dirigeants/klasa/_apis/build/status/dirigeants.klasa-member-gateway?branchName=master)](https://dev.azure.com/dirigeants/klasa/_build/latest?definitionId=3&branchName=master)
 
+Forked in order to make discord v12 compatible
 Simple plugin to manage an efficient per-member settings gateway.
 
 ## Installation
